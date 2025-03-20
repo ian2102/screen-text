@@ -2,7 +2,7 @@
 A Python script that captures a screenshot, extracts text using OCR, and copies it to the clipboard with a hotkey trigger.
 
 ## Demo
-![Demo Video](demo.webm)
+[Demo Vidoe](https://github.com/user-attachments/assets/d8b944df-1f53-4618-a496-1a40ca56993b)
 
 ## Installation
 
